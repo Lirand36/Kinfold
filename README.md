@@ -22,7 +22,3 @@ TanStack Start (React 19, TanStack Router), Tailwind CSS 4, shadcn/ui (Radix), l
 pnpm install
 netlify dev    # or: pnpm dev
 ```
-
-## Roadmap
-
-See [PLAN.md](PLAN.md). Next up: accounts and workspaces, the Netlify Database data model, the Salesforce OAuth connection and sync, the matching engine, merges through the Salesforce API with snapshots for undo, and scheduled and real-time automation.

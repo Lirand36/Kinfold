@@ -1,9 +1,8 @@
 /**
  * Stubbed Salesforce data for the product surface.
  *
- * Every screen reads from this module only. A later milestone swaps these
- * exports for real data (Salesforce sync + Netlify Database) without
- * changing the screens. See PLAN.md.
+ * Every screen reads from this module only, so these exports can later be
+ * swapped for real data without changing the screens.
  */
 
 export type ObjectType = 'Lead' | 'Contact' | 'Account'

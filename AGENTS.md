@@ -4,7 +4,7 @@ This document describes the project for developers and AI agents working on this
 
 ## Project Overview
 
-**Kinfold** is a Salesforce deduplication app: it finds duplicate Leads, Contacts, and Accounts, explains each match score, and merges them with field-level control and undo. Milestone 1 (the product surface) is complete. **Continue from [PLAN.md](PLAN.md)**, which has the numbered roadmap. The next milestones are Identity, the Netlify Database data model, and the Salesforce connection.
+**Kinfold** is a Salesforce deduplication app: it finds duplicate Leads, Contacts, and Accounts, explains each match score, and merges them with field-level control and undo.
 
 ### Kinfold architecture
 

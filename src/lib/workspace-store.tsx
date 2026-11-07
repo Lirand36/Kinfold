@@ -8,8 +8,6 @@ import {
 
 /**
  * Client-side session state for the stubbed product surface.
- * A later milestone replaces this with server functions backed by
- * Netlify Database and the Salesforce API.
  */
 interface WorkspaceState {
   openClusters: Cluster[]
